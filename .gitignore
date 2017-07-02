@@ -99,3 +99,15 @@ yarn-error.log*
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#built component library
+/lib
+
+# built doc
+/docs
+
+# Generated Component Data
+/config/componentData.js
+
+# VScode launch configuration
+launch.json
